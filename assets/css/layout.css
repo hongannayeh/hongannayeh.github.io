@@ -1,0 +1,14 @@
+.wrapper{
+	overflow: hidden;
+}
+.header{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 500;
+}
+
+
+
+/*每一頁的nav都要在最上層的設定*/
